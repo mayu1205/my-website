@@ -19,3 +19,4 @@ git config --global core.autocrlf input
 ```
 
 Remember that consistent line endings are essential for the readability and interoperability of text files in version control systems like Git, especially in projects with diverse contributors and different operating systems.
+"THIS IS MY NEW CHANGE"
